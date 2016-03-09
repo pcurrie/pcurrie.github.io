@@ -29,7 +29,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Author's home: "http://vmware.com"
+# Author's home: "http://vmware.com"
 
 # --- Footer options --- #
 
@@ -38,7 +38,7 @@ navbar-links:
 author:
   name: Paul Currie
   email: "pcurrie@gmail.com"
-  facebook: paul.currie.984  # eg. daattali
+#  facebook: paul.currie.984  # eg. daattali
   github: pcurrie   # eg. daattali
   twitter: pcurrie66   # eg. daattali
   linkedin: pauljcurrie  # eg. "pub/dean-attali/8/946/143"
@@ -47,11 +47,11 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: true
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   github: true
-  linkedin: false
+  linkedin: true
   stackoverflow: false
 
 # How to display the link to the website in the footer
