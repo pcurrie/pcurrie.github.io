@@ -29,6 +29,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
+  Scripts: "scripts"
 # Author's home: "http://vmware.com"
 
 # --- Footer options --- #
