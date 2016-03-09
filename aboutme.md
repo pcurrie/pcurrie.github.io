@@ -1,15 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A few things about my work life.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Paul Currie. I work as a Datacenter Solutions Architect in Dallas, TX. My key areas of focus are Virtualization, Automation, & Orchestration. I have extensive experience with products from VMware, Cisco, and EMC.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I currently hold several VMware certifications.
 
-What else do you need?
+- VMware Certified Advanced Professional 5 - Data Center Design
+- VMware Certified Advanced Professional 5 - Data Center Administration
+- VMware Certified Professional 5 - Data Center Virtualization
+- VMware Certified Professional 5 - Desktop
+- VMware Certified Professional 4 - Data Center Virtualization
+
 
 ### my history
 
